@@ -1,1 +1,1 @@
-console.log('hello 1024Code')
+console.log('hello 1024Code');
